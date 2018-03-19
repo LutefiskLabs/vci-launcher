@@ -5,6 +5,8 @@
 #
 #	lutefisk	1.13.2018  accessing with SSH keys
 #
+#	lutefisk 	3.18.18 working on aws lilghtsail vps install
+#
 from bottle import route, run, template, static_file
 import json
 
